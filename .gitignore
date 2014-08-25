@@ -1,0 +1,8 @@
+# Created by .gitignore support plugin (hsz.mobi)
+### vim template
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~

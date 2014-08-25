@@ -1,3 +1,4 @@
+/* 9B5B5F, 1F7F90 */
 /*
 	========================================
 	DITINGGAL RABI WEDDING INVITATION THEME
@@ -50,7 +51,7 @@ body{
 	font-size: 18px;
 	line-height: 26px;
 	overflow-x: hidden;
-	scrollbar-face-color: #a4c956;
+	scrollbar-face-color: #1F7686;
 }
 
 input,
@@ -61,7 +62,7 @@ textarea {
 }
 
 a{
-	color: #a4c956;
+	color: #1F7686;
 	-webkit-transition: all 0.2s ease-in-out;
 	   -moz-transition: all 0.2s ease-in-out;
 		-ms-transition: all 0.2s ease-in-out;
@@ -80,19 +81,19 @@ a:hover{
 
 
 ::-moz-selection { 
-	background: #a4c956; 
+	background: #1F7686; 
 	color: #fff; 
 	text-shadow: none; 
 }
 
 ::-webkit-selection { 
-	background: #a4c956; 
+	background: #1F7686; 
 	color: #fff; 
-	text-shadow: none; 
+	text-shadow: none;
 }
 
 ::selection { 
-	background: #a4c956; 
+	background: #1F7686; 
 	color: #fff; 
 	text-shadow: none; 
 }
@@ -106,7 +107,7 @@ a:hover{
 } 
 
 ::-webkit-scrollbar-thumb {
-	background-color: #a4c956;
+	background-color: #1F7686;
 	-webkit-border-radius: 2px;
 	   -moz-border-radius: 2px;
 		 -o-border-radius: 2px; 
@@ -142,7 +143,7 @@ a:hover{
 
 .form-control:focus {
 	border-color: #fff;
-  	color: #a4c956;
+  	color: #1F7686;
 	outline: 0;
 	-webkit-box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.075), 0 0 8px rgba(255, 255, 255, 0.6);
 	      	box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.075), 0 0 8px rgba(255, 255, 255, 0.6);
@@ -200,13 +201,13 @@ a:hover{
 	color: #fff;
 	font-size: 32px;
 	text-align: center;
-	background: #a4c956;
+	background: #1F7686;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus{
 	color: rgba(0,0,0,.35);
-	background: #a4c956;
+	background: #1F7686;
 }
 
 .navbar-default .navbar-nav{
@@ -232,7 +233,7 @@ a:hover{
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus{
-	color: #a4c956;
+	color: #1F7686;
 	background-color: transparent;
 	-webkit-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
 	   -moz-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
@@ -244,7 +245,7 @@ a:hover{
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-	background-color: #a4c956;
+	background-color: #1F7686;
 }
 
 /*
@@ -257,7 +258,7 @@ a:hover{
 	width: 100%;
 	padding-top: 120px;
 	padding-right: 0;
-	padding-bottom: 60px;
+	padding-bottom: 350px;
 	padding-left: 0;
 	-webkit-background-size: cover !important;
 	   -moz-background-size: cover !important;
@@ -287,7 +288,7 @@ a:hover{
 	padding-top: 20px;
 	font-family: 'Raleway', sans-serif;
 	font-weight: 900;
-	color: #a4c956;
+	color: #1F7686;
 	font-size: 120px;
 	line-height: 122px;
 	text-shadow: 8px 7px 0 rgba(0,0,0,.3);
@@ -665,7 +666,7 @@ a:hover{
 	font-weight: 600;
 	text-align: center;
 	line-height: 1;
-	background: #a4c956;
+	background: #1F7686;
 	-webkit-border-radius: 100%;
 	   -moz-border-radius: 100%;
 			border-radius: 100%;
@@ -700,7 +701,7 @@ a:hover{
 }
 
 .content-avatar:after {
-	border-top-color: #a4c956;
+	border-top-color: #1F7686;
 	border-width: 11px;
 	left: 50%;
 	margin-left: -10.5px;
@@ -787,9 +788,9 @@ a:hover{
 	   -moz-border-radius: 100%;
 		 -o-border-radius: 100%;
 			border-radius: 100%;
-	-webkit-box-shadow: 0 0 0 3px #a4c956;
-	   -moz-box-shadow: 0 0 0 3px #a4c956;
-			box-shadow: 0 0 0 3px #a4c956;
+	-webkit-box-shadow: 0 0 0 3px #1F7686;
+	   -moz-box-shadow: 0 0 0 3px #1F7686;
+			box-shadow: 0 0 0 3px #1F7686;
 }
 
 .content-item:nth-child(even){
@@ -824,11 +825,11 @@ a:hover{
 	font-weight: 700;
 	margin-top:0;
 	margin-bottom: 20px;
-	color: #a4c956;
+	color: #1F7686;
 }
 
 .content-item h3 a{
-	color: #a4c956;
+	color: #1F7686;
 	-webkit-transition: color 0.2s ease-in-out;
 	   -moz-transition: color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out;
@@ -888,7 +889,7 @@ a:hover{
 .content-quote blockquote{
 	position: relative;
 	padding: 20px 25px 40px;
-	background: #a4c956;
+	background: #1F7686;
 	border-color: transparent;
 	-webkit-border-radius: 1px;
 	   -moz-border-radius: 1px;
@@ -916,7 +917,7 @@ a:hover{
 	speak: none;
 	display: inline-block;
 	content: '\f10e';
-	color: #a4c956 !important;
+	color: #1F7686 !important;
 }
 
 .content-quote time{
@@ -929,7 +930,7 @@ a:hover{
 	speak: none;
 	display: inline-block;
 	content: '\f15c';
-	color: #a4c956 !important;
+	color: #1F7686 !important;
 }
 
 .content-photo img{
@@ -942,7 +943,7 @@ a:hover{
 	speak: none;
 	display: inline-block;
 	content: '\f03e';
-	color: #a4c956 !important;
+	color: #1F7686 !important;
 }
 
 .content-chat:after{
@@ -951,7 +952,7 @@ a:hover{
 	speak: none;
 	display: inline-block;
 	content: '\f0e6';
-	color: #a4c956 !important;
+	color: #1F7686 !important;
 }
 
 .content-item .chat{
@@ -964,7 +965,7 @@ a:hover{
 }
 
 .content-item .odd{
-	background: #a4c956;
+	background: #1F7686;
 	color: #ffffff;
 }
 
@@ -1038,7 +1039,7 @@ a:hover{
 }
 
 .content-end .content-avatar:after {
-	border-bottom-color: #a4c956;
+	border-bottom-color: #1F7686;
 	border-width: 11px;
 	left: 50%;
 	margin-left: -10.5px;
@@ -1153,7 +1154,7 @@ a:hover{
 
 #copyright h2{
 	font-family: 'Dancing Script', cursive;
-	color: #a4c956;
+	color: #1F7686;
 	font-size: 38px;
 	font-weight: 400;
 	line-height: 40px;
@@ -1196,7 +1197,7 @@ a:hover{
 	position: relative;
 	width: 55px;
 	height: 55px;
-	background: #a4c956;
+	background: #1F7686;
 	display: block;
 	border-radius: 100%;
 }
