@@ -3,7 +3,7 @@
 	========================================
 	DITINGGAL RABI WEDDING INVITATION THEME
 	========================================
-	
+
 	@author			: @avriqq
 	@version		: v1.1
 	@date-create	: 02/26/2013
@@ -16,7 +16,7 @@
 	========================================
 	TABLE OF CONTENT
 	========================================
-	
+
 	[1. IMPORT SOURCE]
 	[2. GLOBAL STYLE]
 	[3. NAVBAR]
@@ -38,7 +38,7 @@
 */
 
 
-/* 
+/*
 	==================
 	[2. GLOBAL STYLE]
 	==================
@@ -51,7 +51,7 @@ body{
 	font-size: 18px;
 	line-height: 26px;
 	overflow-x: hidden;
-	scrollbar-face-color: #1F7686;
+	scrollbar-face-color: #12A1BA;
 }
 
 input,
@@ -62,7 +62,7 @@ textarea {
 }
 
 a{
-	color: #1F7686;
+	color: #12A1BA;
 	-webkit-transition: all 0.2s ease-in-out;
 	   -moz-transition: all 0.2s ease-in-out;
 		-ms-transition: all 0.2s ease-in-out;
@@ -80,43 +80,43 @@ a:hover{
 }
 
 
-::-moz-selection { 
-	background: #1F7686; 
-	color: #fff; 
-	text-shadow: none; 
-}
-
-::-webkit-selection { 
-	background: #1F7686; 
-	color: #fff; 
+::-moz-selection {
+	background: #12A1BA;
+	color: #fff;
 	text-shadow: none;
 }
 
-::selection { 
-	background: #1F7686; 
-	color: #fff; 
-	text-shadow: none; 
+::-webkit-selection {
+	background: #12A1BA;
+	color: #fff;
+	text-shadow: none;
+}
+
+::selection {
+	background: #12A1BA;
+	color: #fff;
+	text-shadow: none;
 }
 
 ::-webkit-scrollbar {
       width: 13px;
-} 
+}
 
 ::-webkit-scrollbar-track {
       background-color: #ddd;
-} 
+}
 
 ::-webkit-scrollbar-thumb {
-	background-color: #1F7686;
+	background-color: #12A1BA;
 	-webkit-border-radius: 2px;
 	   -moz-border-radius: 2px;
-		 -o-border-radius: 2px; 
+		 -o-border-radius: 2px;
 			border-radius: 2px;
-} 
+}
 
 ::-webkit-scrollbar-button {
       display: none;
-} 
+}
 
 ::-webkit-scrollbar-corner {
       background-color: #ddd;
@@ -143,7 +143,7 @@ a:hover{
 
 .form-control:focus {
 	border-color: #fff;
-  	color: #1F7686;
+  	color: #12A1BA;
 	outline: 0;
 	-webkit-box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.075), 0 0 8px rgba(255, 255, 255, 0.6);
 	      	box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.075), 0 0 8px rgba(255, 255, 255, 0.6);
@@ -201,13 +201,13 @@ a:hover{
 	color: #fff;
 	font-size: 32px;
 	text-align: center;
-	background: #1F7686;
+	background: #12A1BA;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus{
 	color: rgba(0,0,0,.35);
-	background: #1F7686;
+	background: #12A1BA;
 }
 
 .navbar-default .navbar-nav{
@@ -233,7 +233,7 @@ a:hover{
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus{
-	color: #1F7686;
+	color: #12A1BA;
 	background-color: transparent;
 	-webkit-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
 	   -moz-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
@@ -245,7 +245,7 @@ a:hover{
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-	background-color: #1F7686;
+	background-color: #12A1BA;
 }
 
 /*
@@ -288,7 +288,7 @@ a:hover{
 	padding-top: 20px;
 	font-family: 'Raleway', sans-serif;
 	font-weight: 900;
-	color: #1F7686;
+	color: #12A1BA;
 	font-size: 120px;
 	line-height: 122px;
 	text-shadow: 8px 7px 0 rgba(0,0,0,.3);
@@ -666,7 +666,7 @@ a:hover{
 	font-weight: 600;
 	text-align: center;
 	line-height: 1;
-	background: #1F7686;
+	background: #12A1BA;
 	-webkit-border-radius: 100%;
 	   -moz-border-radius: 100%;
 			border-radius: 100%;
@@ -701,7 +701,7 @@ a:hover{
 }
 
 .content-avatar:after {
-	border-top-color: #1F7686;
+	border-top-color: #12A1BA;
 	border-width: 11px;
 	left: 50%;
 	margin-left: -10.5px;
@@ -788,9 +788,9 @@ a:hover{
 	   -moz-border-radius: 100%;
 		 -o-border-radius: 100%;
 			border-radius: 100%;
-	-webkit-box-shadow: 0 0 0 3px #1F7686;
-	   -moz-box-shadow: 0 0 0 3px #1F7686;
-			box-shadow: 0 0 0 3px #1F7686;
+	-webkit-box-shadow: 0 0 0 3px #12A1BA;
+	   -moz-box-shadow: 0 0 0 3px #12A1BA;
+			box-shadow: 0 0 0 3px #12A1BA;
 }
 
 .content-item:nth-child(even){
@@ -825,11 +825,11 @@ a:hover{
 	font-weight: 700;
 	margin-top:0;
 	margin-bottom: 20px;
-	color: #1F7686;
+	color: #12A1BA;
 }
 
 .content-item h3 a{
-	color: #1F7686;
+	color: #12A1BA;
 	-webkit-transition: color 0.2s ease-in-out;
 	   -moz-transition: color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out;
@@ -889,7 +889,7 @@ a:hover{
 .content-quote blockquote{
 	position: relative;
 	padding: 20px 25px 40px;
-	background: #1F7686;
+	background: #12A1BA;
 	border-color: transparent;
 	-webkit-border-radius: 1px;
 	   -moz-border-radius: 1px;
@@ -917,7 +917,7 @@ a:hover{
 	speak: none;
 	display: inline-block;
 	content: '\f10e';
-	color: #1F7686 !important;
+	color: #12A1BA !important;
 }
 
 .content-quote time{
@@ -930,7 +930,7 @@ a:hover{
 	speak: none;
 	display: inline-block;
 	content: '\f15c';
-	color: #1F7686 !important;
+	color: #12A1BA !important;
 }
 
 .content-photo img{
@@ -943,7 +943,7 @@ a:hover{
 	speak: none;
 	display: inline-block;
 	content: '\f03e';
-	color: #1F7686 !important;
+	color: #12A1BA !important;
 }
 
 .content-chat:after{
@@ -952,7 +952,7 @@ a:hover{
 	speak: none;
 	display: inline-block;
 	content: '\f0e6';
-	color: #1F7686 !important;
+	color: #12A1BA !important;
 }
 
 .content-item .chat{
@@ -965,7 +965,7 @@ a:hover{
 }
 
 .content-item .odd{
-	background: #1F7686;
+	background: #12A1BA;
 	color: #ffffff;
 }
 
@@ -1004,13 +1004,13 @@ a:hover{
 .content-photo,
 .content-text,
 .content-chat,
-.content-audio, 
+.content-audio,
 .content-video{
 	padding-bottom: 60px;
 }
 
 .content-photo time,
-.content-text time, 
+.content-text time,
 .content-chat time,
 .content-audio time,
 .content-video time{
@@ -1039,7 +1039,7 @@ a:hover{
 }
 
 .content-end .content-avatar:after {
-	border-bottom-color: #1F7686;
+	border-bottom-color: #12A1BA;
 	border-width: 11px;
 	left: 50%;
 	margin-left: -10.5px;
@@ -1154,7 +1154,7 @@ a:hover{
 
 #copyright h2{
 	font-family: 'Dancing Script', cursive;
-	color: #1F7686;
+	color: #12A1BA;
 	font-size: 38px;
 	font-weight: 400;
 	line-height: 40px;
@@ -1197,7 +1197,7 @@ a:hover{
 	position: relative;
 	width: 55px;
 	height: 55px;
-	background: #1F7686;
+	background: #12A1BA;
 	display: block;
 	border-radius: 100%;
 }
