@@ -276,7 +276,7 @@ a:hover{
 #contact h2{
 	padding-bottom: 30px;
 	font-family: 'Dancing Script', cursive;
-	color: #fff;
+	color: #C7995E;
 	font-size: 85px;
 	font-weight: 400;
 	line-height: 87px;
@@ -439,6 +439,7 @@ a:hover{
 #about:after,
 #ceremony:after,
 #photos:after,
+#home:after,
 #story:after{
 	content: "";
 	position: absolute;
